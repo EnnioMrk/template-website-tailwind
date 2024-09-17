@@ -1,0 +1,7 @@
+/* import fonts/CooperHewitt/CooperHewitt-Heavy.otf */
+@font-face {
+    font-family: 'Cooper Hewitt Heavy';
+    src: url('../fonts/CooperHewitt/CooperHewitt-Heavy.otf') format('opentype');
+    font-weight: 900;
+    font-style: normal;
+}
